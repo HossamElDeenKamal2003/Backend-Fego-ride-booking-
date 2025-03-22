@@ -1,0 +1,11 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shehab.jordensouq",
+      "sha256_cert_fingerprints": [
+        "F7:4A:E3:C2:85:FA:38:2E:88:24:10:C3:4C:31:B2:DF:72:7F:7B:F1:66:75:CD:91:03:B2:FE:81:17:B8:0E:B7"
+      ]
+    }
+  }]
+  
